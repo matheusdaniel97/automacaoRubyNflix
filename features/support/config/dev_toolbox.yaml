@@ -1,0 +1,11 @@
+--- #Arquivo de configuração YAML
+  url: "http://127.0.0.1:8080"
+  database: 
+    host: "127.0.0.1"
+    dbname: "ninjaflix"
+    user: "postgres"
+    password: "qaninja"
+  users:
+    cat_manager:
+      email: "ganzenmuller1997@gmail.com"
+      pass: "cel15996995309"

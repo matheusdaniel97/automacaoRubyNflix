@@ -1,0 +1,12 @@
+--- #Arquivo de configuração YAML
+  url: "http://hmg.nflix.com"
+    database: 
+    host: "10.10.10.10"
+    dbname: "nflix"
+    user: "postgres"
+    password: "qaninja"
+  users:
+    cat_manager:
+      email: "company@gmail.com"
+      pass: "company123"
+    #Ambiente inexistente apenas para fins de aprendizado
